@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ================================================================ -->
+    <!-- PALETA TEMA OSCURO — Clear Mind (sobreescribe values/colors.xml) -->
+    <!-- Solo se definen aquí los tokens que cambian entre temas.         -->
+    <!-- ================================================================ -->
+
+    <!-- Fondos — OSCURO -->
+    <color name="background">#0F172A</color>
+    <color name="background_card">#1E293B</color>
+    <color name="background_elevated">#334155</color>
+    <color name="surface">#1E293B</color>
+    <color name="surface_variant">#334155</color>
+
+    <!-- Textos — OSCURO -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+
+    <!-- Bordes y separadores — OSCURO -->
+    <color name="border">#334155</color>
+    <color name="border_light">#475569</color>
+    <color name="divider">#1E293B</color>
+
+    <!-- Cards — OSCURO -->
+    <color name="card_background">#1E293B</color>
+    <color name="card_background_hover">#334155</color>
+    <color name="card_stroke">#334155</color>
+
+    <!-- Efectos de brillo — más intensos en oscuro -->
+    <color name="glow_primary">#6366F180</color>
+    <color name="glow_success">#10B98180</color>
+
+    <!-- Tokens LeyendaActivity: info-cards adaptables al tema oscuro -->
+    <color name="rango_info_verde_bg">#193121</color>
+    <color name="rango_info_verde_text">#34D399</color>
+    <color name="rango_info_azul_bg">#172435</color>
+    <color name="rango_info_azul_text">#60A5FA</color>
+    <color name="rango_info_naranja_bg">#2B1B0A</color>
+
+    <!-- Fondos de adicción — OSCURO -->
+    <color name="background_nicotina">#2D1F3D</color>
+    <color name="background_alcohol">#251A3A</color>
+    <color name="background_azucar">#2E1B3E</color>
+    <color name="background_videojuegos">#172435</color>
+    <color name="background_redes">#1A1F3A</color>
+    <color name="background_internet">#142030</color>
+    <color name="background_compras">#142B1F</color>
+    <color name="background_trabajo">#12261F</color>
+</resources>

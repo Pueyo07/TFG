@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ================================================================ -->
+    <!-- PALETA TEMA CLARO — Clear Mind                                    -->
+    <!-- Los colores que cambian en modo oscuro se sobreescriben en        -->
+    <!-- values-night/colors.xml. El resto son tokens de marca compartidos.-->
+    <!-- ================================================================ -->
+
+    <!-- Primarios (iguales en ambos temas) -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_variant">#818CF8</color>
+    <color name="primary_light">#A5B4FC</color>
+
+    <!-- Secundarios -->
+    <color name="secondary">#8B5CF6</color>
+    <color name="secondary_variant">#A78BFA</color>
+
+    <!-- Acentos vibrantes -->
+    <color name="accent_cyan">#06B6D4</color>
+    <color name="accent_pink">#EC4899</color>
+    <color name="accent_emerald">#10B981</color>
+    <color name="accent_amber">#F59E0B</color>
+    <color name="accent_orange">#F97316</color>
+    <color name="accent_rose">#F43F5E</color>
+
+    <!-- Fondos — CLARO -->
+    <color name="background">#F8FAFC</color>
+    <color name="background_card">#FFFFFF</color>
+    <color name="background_elevated">#F1F5F9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+
+    <!-- Textos — CLARO -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Estados semánticos (iguales en ambos temas) -->
+    <color name="success">#10B981</color>
+    <color name="success_light">#34D399</color>
+    <color name="warning">#F59E0B</color>
+    <color name="warning_light">#FBBF24</color>
+    <color name="error">#EF4444</color>
+    <color name="error_light">#F87171</color>
+    <color name="info">#3B82F6</color>
+
+    <!-- Rangos LoL — colores de marca, fijos en ambos temas -->
+    <color name="rango_hierro">#8D8D8D</color>
+    <color name="rango_bronce">#CD7F32</color>
+    <color name="rango_plata">#C0C0C0</color>
+    <color name="rango_oro">#FFD700</color>
+    <color name="rango_platino">#00CED1</color>
+    <color name="rango_diamante">#B9F2FF</color>
+    <color name="rango_master">#E6B8FF</color>
+    <color name="rango_grandmaster">#FF4757</color>
+    <color name="rango_challenger">#FF0000</color>
+
+    <!-- Categorías de adicción (iguales) -->
+    <color name="cat_sustancias">#7C3AED</color>
+    <color name="cat_sustancias_light">#A78BFA</color>
+    <color name="cat_digital">#3B82F6</color>
+    <color name="cat_digital_light">#60A5FA</color>
+    <color name="cat_comportamental">#059669</color>
+    <color name="cat_comportamental_light">#34D399</color>
+
+    <!-- Utilidades -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Gradientes (iguales en ambos temas — son marca) -->
+    <color name="gradient_primary_start">#6366F1</color>
+    <color name="gradient_primary_end">#8B5CF6</color>
+    <color name="gradient_success_start">#10B981</color>
+    <color name="gradient_success_end">#059669</color>
+    <color name="gradient_danger_start">#EF4444</color>
+    <color name="gradient_danger_end">#DC2626</color>
+
+    <!-- Bordes y separadores — CLARO -->
+    <color name="border">#E2E8F0</color>
+    <color name="border_light">#CBD5E1</color>
+    <color name="divider">#F1F5F9</color>
+
+    <!-- Cards — CLARO -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_hover">#F8FAFC</color>
+    <color name="card_stroke">#E2E8F0</color>
+
+    <!-- Efectos de brillo — más sutiles en claro -->
+    <color name="glow_primary">#6366F120</color>
+    <color name="glow_success">#10B98120</color>
+
+    <!-- Tokens LeyendaActivity: info-cards adaptables al tema -->
+    <color name="rango_info_verde_bg">#E8F5E9</color>
+    <color name="rango_info_verde_text">#388E3C</color>
+    <color name="rango_info_azul_bg">#E3F2FD</color>
+    <color name="rango_info_azul_text">#1565C0</color>
+    <color name="rango_info_naranja_bg">#FFF3E0</color>
+
+    <!-- ── Heredados para compatibilidad con código legacy ────────── -->
+    <color name="purple_primary">#7C3AED</color>
+    <color name="purple_light">#A78BFA</color>
+    <color name="purple_dark">#5B21B6</color>
+    <color name="green_primary">#059669</color>
+    <color name="green_light">#34D399</color>
+    <color name="green_dark">#047857</color>
+    <color name="blue_primary">#3B82F6</color>
+    <color name="blue_light">#60A5FA</color>
+    <color name="blue_dark">#1D4ED8</color>
+
+    <color name="categoria_sustancias_oscuro">#7C3AED</color>
+    <color name="categoria_sustancias_medio">#8B5CF6</color>
+    <color name="categoria_sustancias_claro">#A78BFA</color>
+    <color name="categoria_digital_oscuro">#3B82F6</color>
+    <color name="categoria_digital_medio">#60A5FA</color>
+    <color name="categoria_digital_claro">#93C5FD</color>
+    <color name="categoria_comportamental_oscuro">#059669</color>
+    <color name="categoria_comportamental_medio">#10B981</color>
+    <color name="categoria_comportamental_claro">#34D399</color>
+
+    <color name="nicotina_color">#8B5CF6</color>
+    <color name="alcohol_color">#7C3AED</color>
+    <color name="azucar_color">#A78BFA</color>
+    <color name="videojuegos_color">#3B82F6</color>
+    <color name="redes_color">#60A5FA</color>
+    <color name="internet_color">#93C5FD</color>
+    <color name="compras_color">#10B981</color>
+    <color name="trabajo_color">#059669</color>
+
+    <color name="text_nicotina">#A78BFA</color>
+    <color name="text_alcohol">#8B5CF6</color>
+    <color name="text_azucar">#C4B5FD</color>
+    <color name="text_videojuegos">#60A5FA</color>
+    <color name="text_redes">#3B82F6</color>
+    <color name="text_internet">#93C5FD</color>
+    <color name="text_compras">#34D399</color>
+    <color name="text_trabajo">#10B981</color>
+
+    <color name="personalizado_rosa">#EC4899</color>
+    <color name="personalizado_cyan">#06B6D4</color>
+    <color name="personalizado_naranja">#F97316</color>
+    <color name="personalizado_morado">#A78BFA</color>
+    <color name="personalizado_azul">#3B82F6</color>
+    <color name="personalizado_verde">#10B981</color>
+    <color name="personalizado_marron">#92400E</color>
+    <color name="personalizado_gris">#64748B</color>
+
+    <!-- Fondos de adicción (usados en item_adiccion): claro = colores originales de Material -->
+    <color name="background_nicotina">#F3E5F5</color>
+    <color name="background_alcohol">#EDE7F6</color>
+    <color name="background_azucar">#F8F0FC</color>
+    <color name="background_videojuegos">#E3F2FD</color>
+    <color name="background_redes">#E8EAF6</color>
+    <color name="background_internet">#E1F5FE</color>
+    <color name="background_compras">#E8F5E9</color>
+    <color name="background_trabajo">#E0F2F1</color>
+</resources>

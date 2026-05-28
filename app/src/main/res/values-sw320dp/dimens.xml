@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Dimensiones para pantallas muy estrechas (≤320dp shortest width).
+    Equivale a iPhone SE 1ª gen, Android compacto.
+-->
+<resources>
+    <!-- Padding del scroll principal (20dp → 12dp) -->
+    <dimen name="main_content_padding">12dp</dimen>
+    <!-- Padding interno de tarjetas (20dp → 14dp) -->
+    <dimen name="card_inner_padding">14dp</dimen>
+    <!-- Icono de rango en la tarjeta de progreso (64dp → 52dp) -->
+    <dimen name="rango_icon_size">52dp</dimen>
+    <!-- Título del rango (20sp → 17sp) -->
+    <dimen name="rango_nombre_textsize">17sp</dimen>
+    <!-- Logo en pantalla de login (96dp → 72dp) -->
+    <dimen name="login_logo_size">72dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Design tokens de espaciado/tamaño para Clear Mind.
+    Breakpoints Android via smallest-width qualifier:
+      values/           → default (sw≥360dp)
+      values-sw320dp/   → pantallas muy estrechas (320dp)
+-->
+<resources>
+    <dimen name="main_content_padding">20dp</dimen>
+    <dimen name="card_inner_padding">20dp</dimen>
+    <dimen name="rango_icon_size">64dp</dimen>
+    <dimen name="rango_nombre_textsize">20sp</dimen>
+    <dimen name="login_logo_size">96dp</dimen>
+</resources>

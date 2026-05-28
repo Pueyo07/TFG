@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clear Mind</string>
+    <string name="menu_principal">Menú Principal</string>
+    <string name="titulo_adicciones">Mis Adicciones</string>
+    <string name="btn_agregar_adiccion">Agregar Adicción</string>
+    <string name="dias_duro">Días sin recurrir</string>
+    <string name="dias_meta">Meta: %d días</string>
+    <string name="progreso">Progreso</string>
+    <string name="calendario">Calendario</string>
+    <string name="estadisticas">Estadísticas</string>
+    <string name="registrar_dia">Registrar Día</string>
+    <string name="dia_completado">Día completado</string>
+    <string name="dia_fallido">Has recaído</string>
+    <string name="nota">Nota del día</string>
+    <string name="nivel_ansiedad">Nivel de ansiedad (1-10)</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="configurar_meta">Configurar Meta</string>
+    <string name="reiniciar_contador">Reiniciar Contador</string>
+    <string name="confirmar_reinicio">¿Estás seguro de reiniciar el contador?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="total_dias_limpios">Total días limpios</string>
+    <string name="racha_actual">Racha actual</string>
+    <string name="mejor_racha">Mejor racha</string>
+    <string name="porcentaje_exito">Porcentaje de éxito</string>
+    <string name="seleccionar_fecha">Seleccionar fecha de inicio</string>
+    <string name="nombre_adiccion">Nombre de la adicción</string>
+    <string name="seleccionar_tipo">Seleccionar tipo</string>
+    <string name="tipo_nicotina">Nicotina</string>
+    <string name="tipo_alcohol">Alcohol</string>
+    <string name="tipo_videojuegos">Videojuegos</string>
+    <string name="tipo_azucar">Azúcar</string>
+    <string name="tipo_redes_sociales">Redes Sociales</string>
+    <string name="tipo_internet">Internet</string>
+    <string name="tipo_compras">Compras</string>
+    <string name="tipo_trabajo">Trabajo</string>
+</resources>

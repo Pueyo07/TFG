@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Outer circle: dark teal fill, medium teal stroke -->
+    <path
+        android:pathData="M 24,2 A 22,22 0 1,0 24,46 A 22,22 0 1,0 24,2 Z"
+        android:fillColor="#085041"
+        android:strokeColor="#5DCAA5"
+        android:strokeWidth="1.5" />
+
+    <!-- Left curved path -->
+    <path
+        android:pathData="M24,10 C24,10 16,16 16,24 C16,32 24,36 24,36"
+        android:fillColor="#00000000"
+        android:strokeColor="#9FE1CB"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Right curved path -->
+    <path
+        android:pathData="M24,10 C24,10 32,16 32,24 C32,32 24,36 24,36"
+        android:fillColor="#00000000"
+        android:strokeColor="#5DCAA5"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Center dot -->
+    <path
+        android:pathData="M 24,20 A 4,4 0 1,0 24,28 A 4,4 0 1,0 24,20 Z"
+        android:fillColor="#9FE1CB" />
+
+    <!-- Top dot -->
+    <path
+        android:pathData="M 24,11.5 A 2.5,2.5 0 1,0 24,16.5 A 2.5,2.5 0 1,0 24,11.5 Z"
+        android:fillColor="#5DCAA5" />
+
+    <!-- Left-upper radial line -->
+    <path
+        android:pathData="M17,20 L13,18"
+        android:fillColor="#00000000"
+        android:strokeColor="#1D9E75"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Left-lower radial line -->
+    <path
+        android:pathData="M17,28 L13,30"
+        android:fillColor="#00000000"
+        android:strokeColor="#1D9E75"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Right-upper radial line -->
+    <path
+        android:pathData="M31,20 L35,18"
+        android:fillColor="#00000000"
+        android:strokeColor="#1D9E75"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Right-lower radial line -->
+    <path
+        android:pathData="M31,28 L35,30"
+        android:fillColor="#00000000"
+        android:strokeColor="#1D9E75"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+</vector>
